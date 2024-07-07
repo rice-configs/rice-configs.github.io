@@ -1,0 +1,11 @@
+# SPDX-FileCopyrightText: 2024 Jason Pena <jasonpena@awkless.com>
+# SPDX-License-Identifier: CC0-1.0
+
+# Page settings...
+title: Awklesses' Rice Configurations
+description: The main area where I plop my public rice configurations
+
+# Theme settings...
+remote_theme: pages-themes/hacker@v0.2.0
+plugins:
+  - jekyll-remote-theme
